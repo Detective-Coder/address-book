@@ -1,0 +1,16 @@
+C:\Users\aaron\workspace\csharp\exercises\address-book\bin\Debug\net5.0\address-book.exe
+C:\Users\aaron\workspace\csharp\exercises\address-book\bin\Debug\net5.0\address-book.deps.json
+C:\Users\aaron\workspace\csharp\exercises\address-book\bin\Debug\net5.0\address-book.runtimeconfig.json
+C:\Users\aaron\workspace\csharp\exercises\address-book\bin\Debug\net5.0\address-book.runtimeconfig.dev.json
+C:\Users\aaron\workspace\csharp\exercises\address-book\bin\Debug\net5.0\address-book.dll
+C:\Users\aaron\workspace\csharp\exercises\address-book\bin\Debug\net5.0\ref\address-book.dll
+C:\Users\aaron\workspace\csharp\exercises\address-book\bin\Debug\net5.0\address-book.pdb
+C:\Users\aaron\workspace\csharp\exercises\address-book\obj\Debug\net5.0\address-book.csprojAssemblyReference.cache
+C:\Users\aaron\workspace\csharp\exercises\address-book\obj\Debug\net5.0\address-book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\workspace\csharp\exercises\address-book\obj\Debug\net5.0\address-book.AssemblyInfoInputs.cache
+C:\Users\aaron\workspace\csharp\exercises\address-book\obj\Debug\net5.0\address-book.AssemblyInfo.cs
+C:\Users\aaron\workspace\csharp\exercises\address-book\obj\Debug\net5.0\address-book.csproj.CoreCompileInputs.cache
+C:\Users\aaron\workspace\csharp\exercises\address-book\obj\Debug\net5.0\address-book.dll
+C:\Users\aaron\workspace\csharp\exercises\address-book\obj\Debug\net5.0\ref\address-book.dll
+C:\Users\aaron\workspace\csharp\exercises\address-book\obj\Debug\net5.0\address-book.pdb
+C:\Users\aaron\workspace\csharp\exercises\address-book\obj\Debug\net5.0\address-book.genruntimeconfig.cache
